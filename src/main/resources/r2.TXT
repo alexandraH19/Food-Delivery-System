@@ -1,0 +1,3 @@
+Alune  times: 9
+Foietaj  times: 4
+Paine  times: 8
